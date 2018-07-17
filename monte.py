@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 truedata=0
-lim=1000000
+lim=2000
 x=list()
 y=list()
 xtrue=list()
